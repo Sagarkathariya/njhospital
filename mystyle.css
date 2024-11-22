@@ -108,7 +108,7 @@ body {
     background-clip: text;
     color: transparent;
 }
-.textAni h4{
+.njname{
     font-size: 22px;
     background: linear-gradient(to top, blue, red);
     -webkit-background-clip: text;

@@ -108,6 +108,13 @@ body {
     background-clip: text;
     color: transparent;
 }
+.textAni h4{
+    font-size: 20px;
+    background: linear-gradient(to top, blue, red);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
 
 .imag {
     position: absolute;
